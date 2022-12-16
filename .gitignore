@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+### ABOVE THIS LINE WAS ADDED BY GITHUB TEMPLATE PYTHON .GITIGNORE
+
+*.csv
